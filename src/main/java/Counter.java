@@ -7,11 +7,11 @@ public class Counter {
 		this.reset();
 	}
 
-	public void resets() {
+	public void reset() {
 		count = 0;
 	}
 
-	public void incremens() {
+	public void increment() {
 		count++;
 	}
 
