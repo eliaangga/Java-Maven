@@ -4,14 +4,14 @@ public class Counter {
 	private int count;
 
 	public Counter() {
-		this.resets();
+		this.reset();
 	}
 
 	public void reset() {
 		count = 0;
 	}
 
-	public void incremen() {
+	public void increment() {
 		count++;
 	}
 
