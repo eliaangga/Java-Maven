@@ -8,3 +8,6 @@ https://github.com/eliaangga/Java-Maven
 
 * LINK Youtube Week 10
 https://youtu.be/63n0RkKKUc8
+
+* LINK Youtube Week 11
+https://youtu.be/et5JSAw4WwU
