@@ -8,7 +8,7 @@ public class Counter {
 	}
 
 	public void reset() {
-		count = 0;
+		count = 3;
 	}
 
 	public void increment() {
