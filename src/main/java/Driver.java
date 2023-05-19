@@ -17,8 +17,6 @@ public class Driver {
 
 		counter.multiplyBy(2);
 
-		System.out.println("Count:" + counter.getCount());
-
 	}
 
 }
