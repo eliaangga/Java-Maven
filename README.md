@@ -1,13 +1,15 @@
-# TUGAS 10 : Tugas Week 10 - CI/CD
-# TUGAS 11 : Tugas Week 10 - CI/CD Testing
-- Elia Angga 
-- 1302204005
+# Java-Maven 
 
-* LINK GITHUB 
-https://github.com/eliaangga/Java-Maven
+<h1 align="left">Mahasiswa</h1>
 
-* LINK Youtube Week 10
-https://youtu.be/63n0RkKKUc8
+- **Nama :** Elia Angga
 
-* LINK Youtube Week 11
-https://youtu.be/et5JSAw4WwU
+- **NIM :** 1302204005
+
+- **Kelas :** SE4402
+
+<h3 align="left">Link Youtube</h3>
+  
+<p align="left"> Week 10 : https://youtu.be/63n0RkKKUc8 </p>
+
+<p align="left"> Week 11 : https://youtu.be/et5JSAw4WwU </p>
